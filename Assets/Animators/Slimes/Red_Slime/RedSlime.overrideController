@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RedSlime
+  m_Controller: {fileID: 9100000, guid: 4a0394dbf3f4bc64791bd714e416f02e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 80265d9266259e948a3c22cf7c181b2a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ae8377ec65c909d48887458136f852e8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1612610e5606dca41a29f954c4350dbf, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 99745bc580d707648b84b59782923dcb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4d9e0afe4835ac84f979753575aeaf67, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1f59e556853ea542ada4d37f16cbd4f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 95274cac6be68d64383c994d77115cb2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 82a6a1521da3d0e4e976e94ee9a6efaf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 30139206ec8cdbe49a8945f6a1855854, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 71efd12e5beab8b498b31188dd7083b1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4bdb8e1111c7ad5468892b98efe96f96, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fb9208f802044b64caad5faba81efde6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ab9135f76ceebe14abdb1bf9ea2f5ea1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 14a8b60c4af16e044962e25f78073ae7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c19bdf56eb42e8b40a46666716b6c473, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c35aa02dfa8339f40ab783622e962f4f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c4ce4986ca75d3947a28014614af8a79, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4a8f5dea4f91c2499add53d3142b0d1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b1c96c9f1e8cf624387b6acda3526404, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aaec41d7945545a49a9d43873be51b08, type: 2}
